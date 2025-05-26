@@ -11,7 +11,7 @@ currency = "$"
 
 
 
-user_id_data = input("Choose your peyment card: ")
+user_id_data = input("Choose your payment card: ")
 if user_id_data == "visa":
     print("Visa card selected")
 elif user_id_data == "mastercard":
